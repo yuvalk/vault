@@ -21,7 +21,7 @@
     "@hashicorp/react-search": "^2.1.0",
     "@hashicorp/react-section-header": "^2.0.0",
     "@hashicorp/react-subnav": "^3.2.3",
-    "@hashicorp/react-tabs": "^0.4.0",
+    "@hashicorp/react-tabs": "^0.6.3",
     "@hashicorp/react-text-and-content": "^4.1.1",
     "@hashicorp/react-use-cases": "^1.0.4",
     "@hashicorp/react-vertical-text-block-list": "^2.0.1",
